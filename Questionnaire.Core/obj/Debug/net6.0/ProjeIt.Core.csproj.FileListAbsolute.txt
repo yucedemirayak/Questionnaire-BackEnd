@@ -1,0 +1,12 @@
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.csproj.AssemblyReference.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.AssemblyInfoInputs.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.AssemblyInfo.cs
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.csproj.CoreCompileInputs.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\bin\Debug\net6.0\ProjeIt.Core.deps.json
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\bin\Debug\net6.0\ProjeIt.Core.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\bin\Debug\net6.0\ProjeIt.Core.pdb
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\refint\ProjeIt.Core.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ProjeIt.Core.pdb
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ref\ProjeIt.Core.dll

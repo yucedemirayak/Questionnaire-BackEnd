@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKfJSU14ZCFz+5CFq5NfgOviSpJcuR1Kc0tm3mVu7Tj2NzOj/lPDxdXEYf7JbtmVr30/8WhrFNIfgqsdyLQGTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.Services\\Questionnaire.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuced\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\yuced\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

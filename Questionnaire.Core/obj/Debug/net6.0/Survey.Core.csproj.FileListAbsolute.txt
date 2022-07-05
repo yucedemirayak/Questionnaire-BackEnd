@@ -1,0 +1,12 @@
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\bin\Debug\net6.0\Survey.Core.deps.json
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\bin\Debug\net6.0\Survey.Core.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\bin\Debug\net6.0\Survey.Core.pdb
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.csproj.AssemblyReference.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.AssemblyInfoInputs.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.AssemblyInfo.cs
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.csproj.CoreCompileInputs.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\refint\Survey.Core.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\Survey.Core.pdb
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Core\obj\Debug\net6.0\ref\Survey.Core.dll

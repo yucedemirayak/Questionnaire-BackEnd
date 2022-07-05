@@ -1,0 +1,17 @@
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\ProjeIt.Data.deps.json
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\ProjeIt.Data.runtimeconfig.json
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\ProjeIt.Data.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\ProjeIt.Data.pdb
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\ProjeIt.Core.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\ProjeIt.Core.pdb
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.csproj.AssemblyReference.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.AssemblyInfoInputs.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.AssemblyInfo.cs
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.csproj.CoreCompileInputs.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.csproj.CopyComplete
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\refint\ProjeIt.Data.dll
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.pdb
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ProjeIt.Data.genruntimeconfig.cache
+C:\Users\yuced\Desktop\ProjeIt\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ref\ProjeIt.Data.dll

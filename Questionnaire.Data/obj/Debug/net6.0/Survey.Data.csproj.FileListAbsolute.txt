@@ -1,0 +1,17 @@
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\Survey.Data.deps.json
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\Survey.Data.runtimeconfig.json
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\Survey.Data.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\Survey.Data.pdb
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\Survey.Core.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\bin\Debug\net6.0\Survey.Core.pdb
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.csproj.AssemblyReference.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.AssemblyInfoInputs.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.AssemblyInfo.cs
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.csproj.CoreCompileInputs.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.csproj.CopyComplete
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\refint\Survey.Data.dll
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.pdb
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\Survey.Data.genruntimeconfig.cache
+C:\Users\yuced\Desktop\Questionnaire Application\ProjeIt-BackEnd\ProjeIt.Data\obj\Debug\net6.0\ref\Survey.Data.dll
