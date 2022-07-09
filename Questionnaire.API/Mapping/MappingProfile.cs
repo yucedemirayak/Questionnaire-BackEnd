@@ -22,6 +22,7 @@ namespace Questionnaire.API.Mapping
             CreateMap<Admin, SaveAdminDTO>();
 
             CreateMap<Company, CompanyDTO>();
+            CreateMap<Company, CompanyNameDTO>();
 
             CreateMap<Manager, ManagerDTO>();
             CreateMap<Manager, SaveManagerDTO>();
@@ -45,6 +46,7 @@ namespace Questionnaire.API.Mapping
             CreateMap<SaveAdminDTO, Admin>();
 
             CreateMap<CompanyDTO, Company>();
+            CreateMap<CompanyNameDTO, Company>();
 
             CreateMap<ManagerDTO, Manager>();
             CreateMap<SaveManagerDTO, Manager>();

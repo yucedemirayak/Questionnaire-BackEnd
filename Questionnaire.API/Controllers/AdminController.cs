@@ -71,6 +71,15 @@ namespace Questionnaire.API.Controllers
             return Ok(ResponseDTO.GenerateResponse(companyDTO));
         }
 
+        //Get Company Name By ID
+        [HttpGet("getCompanyNameById")]
+        public async Task<ActionResult<CompanyNameDTO>> GetCompanyById(int id)
+        {
+            var company = await serviceProvider.CompanyServices.ReceiveById(id);
+            var companyNameDTO = mapper.Map<Company, CompanyNameDTO>(company);
+            return (Ok(ResponseDTO.GenerateResponse(companyNameDTO)));
+        }
+
         // Get CompanyNames
         [HttpGet("getCompanyNames")]
         public async Task<ActionResult<IEnumerable<CompanyDTO>>> GetCompanyNames()
@@ -180,7 +189,7 @@ namespace Questionnaire.API.Controllers
         }
 
 
-        ////////////////////////////////////////////////////////////////
+        ///////////////////////////////////////////////////////////////////////////////
 
         //Create Survey
         [HttpPost("createSurvey")]
