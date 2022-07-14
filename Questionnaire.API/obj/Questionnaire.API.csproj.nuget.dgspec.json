@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.Api\\Questionnaire.API.csproj": {}
+    "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.API\\Questionnaire.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.Api\\Questionnaire.API.csproj": {
+    "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.API\\Questionnaire.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.Api\\Questionnaire.API.csproj",
+        "projectUniqueName": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.API\\Questionnaire.API.csproj",
         "projectName": "Questionnaire.API",
-        "projectPath": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.Api\\Questionnaire.API.csproj",
+        "projectPath": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.API\\Questionnaire.API.csproj",
         "packagesPath": "C:\\Users\\yuced\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.Api\\obj\\",
+        "outputPath": "C:\\Users\\yuced\\Desktop\\Questionnaire Application\\Questionnaire-BackEnd\\Questionnaire.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -167,7 +167,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -249,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -311,7 +311,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

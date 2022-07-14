@@ -24,12 +24,12 @@ namespace Questionnaire.Data
         }
 
         public IAdminRepository Admins => adminRepository ?? new AdminRepository(context);
-        public IOptionRepository Answers => optionRepository ?? new OptionRepository(context);
+        public IOptionRepository Options => optionRepository ?? new OptionRepository(context);
         public ICompanyRepository Companies => companyRepository ?? new CompanyRepository(context);
         public IManagerRepository Managers => managerRepository ?? new ManagerRepository(context);
         public IQuestionRepository Questions => questionRepository ?? new QuestionRepository(context);
         public ISurveyRepository Surveys => surveyRepository ?? new SurveyRepository(context);
-        public IAssignedUserRepository SurveyUsers => assignedUserRepository ?? new AssignedUserRepository(context);
+        public IAssignedUserRepository AssignedUsers => assignedUserRepository ?? new AssignedUserRepository(context);
         public IUserAnswerRepository UserAnswers => userAnswerRepository ?? new UserAnswerRepository(context);
         public IUserRepository Users => userRepository ?? new UserRepository(context);
 

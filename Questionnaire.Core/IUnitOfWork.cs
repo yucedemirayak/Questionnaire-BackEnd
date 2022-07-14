@@ -5,12 +5,12 @@ namespace Questionnaire.Core
     public interface IUnitOfWork : IDisposable
     {
         IAdminRepository Admins { get; }
-        IOptionRepository Answers { get; }
+        IOptionRepository Options { get; }
         ICompanyRepository Companies { get; }
         IManagerRepository Managers { get; }
         IQuestionRepository Questions { get; }
         ISurveyRepository Surveys { get; }
-        IAssignedUserRepository SurveyUsers { get; }
+        IAssignedUserRepository AssignedUsers { get; }
         IUserAnswerRepository UserAnswers { get; }
         IUserRepository Users { get; }
 

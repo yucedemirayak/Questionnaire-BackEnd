@@ -17,21 +17,21 @@ namespace Questionnaire.Services.Services
 
         public async Task<AssignedUser> ChangeById(int id, AssignedUser entity)
         {
-            await unitOfWork.SurveyUsers.UpdateByIdAsync(id, entity);
+            await unitOfWork.AssignedUsers.UpdateByIdAsync(id, entity);
             await unitOfWork.CommitAsync();
             return await ReceiveById(id);
         }
 
         public async Task<AssignedUser> ChangeValueById(int id, object value, string propName)
         {
-            await unitOfWork.SurveyUsers.UpdateValueByIdAsync(id, value, propName);
+            await unitOfWork.AssignedUsers.UpdateValueByIdAsync(id, value, propName);
             await unitOfWork.CommitAsync();
             return await ReceiveById(id);
         }
 
         public async Task<AssignedUser> Create(AssignedUser entity)
         {
-            await unitOfWork.SurveyUsers.AddAsync(entity);
+            await unitOfWork.AssignedUsers.AddAsync(entity);
             await unitOfWork.CommitAsync();
             return entity;
         }
@@ -39,19 +39,19 @@ namespace Questionnaire.Services.Services
         public async Task<AssignedUser> DeleteById(int id)
         {
             var deletedEntity = await ReceiveById(id);
-            unitOfWork.SurveyUsers.Remove(deletedEntity);
+            unitOfWork.AssignedUsers.Remove(deletedEntity);
             await unitOfWork.CommitAsync();
             return deletedEntity;
         }
 
         public async Task<IEnumerable<AssignedUser>> ReceiveAll()
         {
-            return await unitOfWork.SurveyUsers.GetAllAsync();
+            return await unitOfWork.AssignedUsers.GetAllAsync();
         }
 
         public async Task<AssignedUser> ReceiveById(int id)
         {
-            return await unitOfWork.SurveyUsers.GetByIdAsync(id);
+            return await unitOfWork.AssignedUsers.GetByIdAsync(id);
         }
     }
 }
